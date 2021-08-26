@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3453d9d297e2320707e1",
+    "revision": "cb5526610a08a7e8abea",
     "url": "/JapanifyIO/static/css/main.14dca676.chunk.css"
   },
   {
-    "revision": "3453d9d297e2320707e1",
-    "url": "/JapanifyIO/static/js/main.c22dbdba.chunk.js"
+    "revision": "cb5526610a08a7e8abea",
+    "url": "/JapanifyIO/static/js/main.f4c108b4.chunk.js"
   },
   {
     "revision": "d7baa86abb0255bd9125",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/JapanifyIO/static/media/songs2.fc405f01.png"
   },
   {
-    "revision": "f7e6498fe958fa15963c4a9aa086d750",
+    "revision": "a2e85c3a136a5bf4349e3974934c8fc6",
     "url": "/JapanifyIO/index.html"
   }
 ];
